@@ -22,7 +22,7 @@ Hey folks! 👋 I'm Abhyuday, a passionate technologist driven by the art of cre
 ---
 [![](https://visitcount.itsvg.in/api?id=abhyuday1212&icon=5&color=9)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 If you appreciate any of my efforts and would like to support my work, consider making a contribution.
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abhyuday12) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/abhyuday12) 
 
   
