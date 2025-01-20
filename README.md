@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hey folks! 👋 I'm Abhyuday, a passionate technologist driven by the art of creating immersive and visually captivating web experiences. As a Junior Frontend Developer, I specialize in harnessing the power of HTML, CSS, and JavaScript to craft exceptional user interfaces. My goal is to not only make websites look great but also ensure seamless navigation and optimal performance. With a solid foundation in C and Java, I bring a well-rounded skill set to the table. I thrive on collaborating with teams.<br>Let's connect and explore the exciting possibilities of creating remarkable web solutions together!
+👋 Hey , I'm Abhyuday, a Third year B.Tech student at Maharaja Agrasen Institute of Technology, specializing in Artificial Intelligence and Machine Learning. 🚀 As a Full Stack Developer, My passion lies in creating robust, scalable solutions for business growth and user satisfaction. I had worked on various technologies in the past such as NextJs, (M.E.R.N), Flask, Gemini, Python and Java. I thrive on collaborating with teams.<br>Let's connect and explore the exciting possibilities of creating remarkable web solutions together!
 
 
 ## 🌐 Socials:
