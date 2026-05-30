@@ -1,10 +1,13 @@
 
 # 💫 About Me:
-👋 Hey , I'm Abhyuday, a Third year B.Tech student at Maharaja Agrasen Institute of Technology, specializing in Artificial Intelligence and Machine Learning. 🚀 As a Full Stack Developer, My passion lies in creating robust, scalable solutions for business growth and user satisfaction. I had worked on various technologies in the past such as NextJs, (M.E.R.N), Flask, Gemini, Python and Java. I thrive on collaborating with teams.<br>Let's connect and explore the exciting possibilities of creating remarkable web solutions together!
+👋 Hey , I'm Abhyuday, a Software engineer who is passionate about backend development, has industry experience in analysis, design, implementation and testing of software solutions. Passionate about solving challenging problems, won and been the finalist in couple of hackathons. Proficient in various programming languages and platforms. Brings a fresh perspective to the team and collaborates effectively.
+
+For any query please contact at apsworks1212@gmail.com.
+GitHub: https://github.com/abhyuday1212
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhyuday__12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhyuday12) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@apsworks1212](https://medium.com/@abhyuday1212)) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]([https://twitter.com/Abhyuday_1](https://twitter.com/abhyuday1212)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhyuday12) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@apsworks1212](https://medium.com/@abhyuday1212)) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]([https://twitter.com/Abhyuday_1](https://twitter.com/abhyuday1212)) 
 
 # 💻 Tech Stack:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=black
@@ -27,9 +30,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=abhyuday1212&icon=5&color=9)](https://visitcount.itsvg.in)
 ![Profile views](https://komarev.com/ghpvc/?username=abhyuday1212)
-
-  ## 💰 If you appreciate any of my efforts and would like to support my work, consider making a contribution.
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abhyuday12) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/abhyuday12) 
 
   
  
